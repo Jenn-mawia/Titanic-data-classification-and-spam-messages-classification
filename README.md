@@ -43,7 +43,7 @@ If you find a bug (or undesired results) do not hesitate to reach out
 
 
 ## License
-[MIT](https://github.com/Jenn-mawia/Hypothyroidism-Classification/blob/main/LICENSE)
+[MIT](https://github.com/Jenn-mawia/Titanic-data-classification-and-spam-messages-classification/blob/main/LICENSE)
 
 
 Copyright (c) [2020] 
